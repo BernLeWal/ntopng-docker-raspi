@@ -1,4 +1,4 @@
-FROM resin/rpi-raspbian:latest 
+FROM balenalib/raspberrypi3-debian-node:10.10-stretch-run 
 MAINTAINER Bernhard Wallisch <bernhard_wallisch@hotmail.com> 
 
 ENV LANG C.UTF-8 
